@@ -1,0 +1,22 @@
+.container{
+    width: 940px;
+    margin: 0 auto;
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+    border: 1px solid #000;
+}
+thead{
+    background: #CCCCCC;
+}
+th{
+    border: 1px solid #000;
+}
+
+td{
+    border: 1px solid #000;
+    text-align: center;
+    width: 200px;
+    
+}
